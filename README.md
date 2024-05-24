@@ -92,3 +92,4 @@ B. http://localhost:8000/doc  Index page for doctors
 ![dashboard-doc](https://user-images.githubusercontent.com/53531220/177011016-7088bf54-dcc6-4a81-8dda-db999291a9bd.JPG)
 
 # online-doctor-appointment
+# online-doctor-appointment
